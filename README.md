@@ -12,7 +12,7 @@ The README.md file can be found [here](./src/README.md)
   
   ![Deme README Generator](./deme-readme-generator.gif)
   
-🎥 The full movie file showing functionality of the application can be found [here](./utils/deme-readme-generator-movie.webm)  
+🎥 The full movie file showing functionality of the application can be found [here](deme-readme-generator-movie.webm)  
   
 ## User Story
   
