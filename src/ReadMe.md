@@ -1,13 +1,13 @@
 
-<h1 align="center">README GENERATOR </h1>
+<h1 align="center">README Generator </h1>
   
 
 ## Description
- This project was created by Triology Education Services at the Southern Methodist University Boot Camp.
+  * This project was created by Triology Education Services at the Southern Methodist University Boot Camp. 
 
 
 ## How to run the app
- It is made populate a README.md file for inquirer repository using node.js.
+ It uses to populate a README file
 
 ## Tests
  No
