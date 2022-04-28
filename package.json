@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "for assignment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemeSibere/myReadMe-Generator-.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Deme Sibere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DemeSibere/myReadMe-Generator-/issues"
+  },
+  "homepage": "https://github.com/DemeSibere/myReadMe-Generator-#readme",
+  "dependencies": {
+    "inquirer": "^8.2.3"
+  }
+}
