@@ -4,15 +4,15 @@
 
 ## Description
 
-This project was created by Triology Education Services at the Southern Methodist University Boot Camp. It is made populate a README.md file for inquirer repository using node.js.
+This project was created by Triology Education Services at the Southern Methodist University Boot Camp. It is a node.js application that uses inquirers input to populate a README file.
   
-The README.md file can be found [here](./src/README.md)  
+The README file can be found [here](./src/README.md)  
   
 * Below is the gif showing the functionality of the application:
   
   ![Deme README Generator](./deme-readme-generator.gif)
   
-🎥 The full movie file showing functionality of the application can be found [here](deme-readme-generator-movie.webm) 
+🎥 The full movie file showing functionality of the application can be found [here](https://drive.google.com/file/d/1X34mBIy1TusnabRo06oYrroGKhR87yrv/view) 
 
   
 ## User Story
@@ -53,7 +53,17 @@ THEN I am taken to the corresponding section of the README
 ## How to run the app
   
   Run the following command at th root of your project and answer the prompted questions:
-  
+
 `node index.js`
 
-    
+## Task
+README generator generates:
+- A table of content,
+- License with badge(shield.io),
+- Email and Github with hyperlinks, 
+- Also includes Installation, usage, contributing, and tests sections.
+
+In addition, a video walkthrough and a gif walkthrough has been included in this README file to showcase the functinality of README Generator app. 
+
+
+----
