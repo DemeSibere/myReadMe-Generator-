@@ -8,17 +8,12 @@ This project was created by Triology Education Services at the Southern Methodis
   
 The README file can be found [here](./src/README.md)  
   
-* Below is the gif showing the functionality of the application:
-  
-  ![Deme README Generator](./deme-readme-generator.gif)
-  
-🎥 The full movie file showing functionality of the application can be found [here](https://drive.google.com/file/d/1X34mBIy1TusnabRo06oYrroGKhR87yrv/view) 
-
 
 ## Table of Contents
 - [Description](#description)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
+- [Functionality](#functionality)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -53,6 +48,17 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
+
+## Functionality
+* Below is the functionality of the application:
+
+  ##### GIF
+  
+  ![Deme README Generator](./deme-readme-generator.gif)
+
+    #### Video
+🎥 To find the full movie file showing the functionality of the application, click 👉 [here](https://drive.google.com/file/d/1X34mBIy1TusnabRo06oYrroGKhR87yrv/view) 
+
 
 
 ## Installation   
